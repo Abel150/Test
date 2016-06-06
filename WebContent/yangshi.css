@@ -1,0 +1,92 @@
+@CHARSET "UTF-8";
+*{margin:0; padding:0;}
+.head{height:50px;background:#F0F0F0}
+.headright{position:absolute;right:0;top:0;left:1000px}
+a.shapea:link{color:#C90F12;font-family:"Microsoft Yahei";text-decoration:none;}
+.selloperate{position:absolute;right:0;top:250px;left:1150px}
+shaped{font-family:"宋体";font-size:0.8em;color:grey}
+.recommend{position:absolute;top:580px;clear:both}
+.photolist{float:left;margin-right: 20px}
+.judge{float:left;margin-right: 20px}
+.product1{width:200px;clear:both;}
+.promo{float:left;}
+.promotion{float:left}
+.note2{width:130px;height:5px;background:#E0191D;float:left;}
+.headuser{position:absolute;right:0;top:0;left:1200px;}
+
+.logo{
+	width:80px;
+	height:80px;
+	position:absolute;top:50px;left:0
+}
+a,img{border:0;}
+/* searchbox */
+.searchbox{width:520px;height:80px;margin:40px auto 0 auto;}
+.bodys input{ height:30px;line-height:30px;width:390px;padding:0 10px;float:left;}
+.bodys .one{ border:#f00 3px solid}
+.bodys .one1{ background-color:#E0191D; }
+.bodys button{float:left;border:0;height:36px;width:100px; color:#FFF; line-height:36px;text-align:center;overflow:hidden;}
+.gouwuche{position:absolute;right:0;top:80px;left:95%}
+.classify{
+	width:290px;
+	height:40px;
+	position:absolute;right:100%;top:210px;left:0;
+	background:navajowhite;
+	text-align:center;
+	line-height:35px;
+	font-weight:bold;
+	font-size: 20px;
+	font-family:"Microsoft Yahei";
+
+}
+ a.shapec:link{	display:block;color:#000;text-decoration:none;}
+ a.shapec:hover{display:block;color:#616161;font-family:"Microsoft Yahei";text-decoration:none;}
+.nav{
+	width:858px;
+	height:40px;
+	background:#000;
+	margin-left:290px;
+	margin-top:40px;}
+.nav ul
+{
+	width:960px;
+	height:40px;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+.nav ul li
+{
+float:left;
+text-align:center;
+line-height:35px;
+}
+.nav ul li a:link,.nav ul li a:visited
+{
+display:block;
+width:143px;
+height:40px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#EF474A;
+text-decoration:none;
+}
+.nav ul li a:hover,.nav ul li a:active
+{
+background-color:#E0191D;
+}
+
+ a.classify:link{font-size:0.2em;color:grey;font-family: "Microsoft Yahei";text-decoration:none;}
+ a.classify:hover{color:lightgrey;font-family:"Microsoft Yahei";text-decoration:underline;}
+ a.fontbt:link{font-size:0.4em;color:black;font-family:"Microsoft Yahei";text-decoration:none;}
+ a.fontbt:hover{color:grey;font-family:"Microsoft Yahei";text-decoration:none;}
+.classifysheet{background:floralwhite; border: 4px solid #E0191D;clear:both;float:left;width:284px;}
+
+.shuma{position:absolute;top:838px;width:100%;clear:both}
+.shuma1{position:absolute;top:1170px;width:100%;clear:both}
+.shuma2{position:absolute;top:1510px;width:100%;clear:both}
+.footer{position:absolute;top:1900px;width:100%;clear:both}
+  span{color:grey;font-size:10px}
+ .note{width:5px;height:30px;background:#E0191D;float:left;}
+ .pro1{width:180px;background:white;font-size: 12px;color: darkslategrey;float:left;margin-right: 50px;}

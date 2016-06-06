@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<peoples>
+<people>
+  <id>1</id>
+  <images>image/1.jpg</images>
+  <url>https://www.gov.uk/government/organisations/department-for-culture-media-sport</url>
+</people>
+<people>
+  <id>2</id>
+  <images>image/2.jpg</images>
+  <url>http://www.cambodianculturalvillage.com/</url>
+</people>
+<people>
+  <id>3</id>
+  <images>image/3.jpg</images>
+  <url>http://web-japan.org/</url>
+</people>
+<people>
+  <id>4</id>
+  <images>image/4.jpg</images>
+  <url>http://www.russia.org.cn/chn/</url>
+</people>
+<people>
+  <id>5</id>
+  <images>image/5.jpg</images>
+  <url>http://www.chinaculture.net/</url>
+</people>
+<people>
+  <id>6</id>
+  <images>image/6.jpg</images>
+  <url>http://www.aol.com/</url>
+</people>
+</peoples>

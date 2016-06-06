@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+<meta charset="UTF-8">
+<title>花生二手电脑城首页</title>
+<style type="text/css">
+*{margin:0; padding:0;}
+.head{height:50px;background:#F0F0F0}
+.headright{position:absolute;right:0;top:0;left:1000px}
+a.shapea:link{color:#C90F12;font-family:"Microsoft Yahei";text-decoration:none;}
+.selloperate{position:absolute;right:0;top:100px;left:1100px}
+</style>
+</head>
+<body>
+<div class="head">
+ <form method="post" action="Select.do">
+ <label><strong>您的城市</strong><img src="images/lamb.png"></label>
+        <select name="city">
+        <option value="北京">北京</option>
+        <option value="长沙" selected="selected">长沙</option>
+        <option value="重庆">重庆</option>
+        <option value="海口">海口</option>
+        <option value="杭州">杭州</option>
+        <option value="天津">天津</option>
+        <option value="合肥">合肥</option>
+        <option value="上海">上海</option>
+        <option value="其他">其他</option>
+        </select>
+        <input type="submit" id="submit"></input>
+        <div class="headright">
+        <br />
+        <a class="shapea" href="login.jsp" target="_blank">登录</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a class="shapea" href="register.jsp" target="_blank">注册</a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a class="shapea" href="#" target="_blank">收藏本页</a>   
+            </div>
+            </form>
+        <hr />
+</div>
+
+   <div class="selloperate">
+            <a href="#" target="_blank">
+            <p><img src="images/zm1.png" width="150" height="120"></p>
+            </a>
+            <br />
+            <p><img src="images/zm3.png" width="150" height="120"></p>
+        </div>
+</body>
+</html>
